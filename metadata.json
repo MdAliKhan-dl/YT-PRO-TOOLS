@@ -1,0 +1,5 @@
+{
+  "name": "AI YouTube Scriptwriter",
+  "description": "An AI-powered application that generates YouTube scripts by blending authoritative and fast-paced communication styles, based on expert scriptwriting knowledge. Users provide a topic and key points to receive a tailored script.",
+  "requestFramePermissions": []
+}
